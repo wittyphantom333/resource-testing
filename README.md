@@ -4,7 +4,7 @@
 
 ## Drugs
 
-### Weed
+- Weed
 ```lua
 Items Needed:
   - Processing: tesoura
@@ -17,7 +17,7 @@ Selling:
   - 99.4, -1936.57, 20.8
 ```
   
-### Coke
+- Coke
 ```lua
 Items Needed:
   - Processing: tesoura
@@ -30,7 +30,7 @@ Selling:
   - 328.21, -2035.65, 20.92
 ```
 
-### Meth
+- Meth
 ```lua
 Items Needed:
   - Processing: tesoura
@@ -43,7 +43,7 @@ Selling:
   - 1373.52, -1534.22, 56.18
 ```
 
-### Opium
+- Opium
 ```lua
 Items Needed:
   - Processing: tesoura
@@ -58,196 +58,211 @@ Selling:
 
 
 
+
+<br><br>
+
 # Jobs
----
+
 ## Resturants
----
-### Bahama Mamas
 
-### Bean Machine
+- Bahama Mamas
 
-### Cool Beans
+- Bean Machine
 
-### Ponde Coffee
+- Cool Beans
 
-### Tequila
+- Ponde Coffee
 
-### Vanilla
+- Tequila
 
-### Car Dealer
+- Vanilla
 
-###  Real Estate
+- Car Dealer
 
-### Mechanic (Tuners)
+-  Real Estate
 
-### Taxi
+- Mechanic (Tuners)
 
-### Towing
+- Taxi
 
----
+- Towing
+
+<br>
+
 ## PD/EMS/FIRE
----
-### Radios
 
-### MDT's (pd/ems)
+- Radios
 
-### K9
+- MDT's (pd/ems)
 
-### Ambulance/Stretcher
+- K9
 
-### Firehose and Tools
+- Ambulance/Stretcher
 
-### Radar / Dispatch
+- Firehose and Tools
 
-### Alerts
+- Radar / Dispatch
 
----
+- Alerts
+
+<br>
+
 ## Civ Jobs
----
-### Beach Activities
+- Beach Activities
+- Black Market
+- Camping
+- Car Bomb
+- Car Rebuild
+- Car Rebuild
+- Car Thief
+- Craft Potion
+- Deliveries
+- Farming
+- Fishing
+- FoodVan
+- Garbage
+- GoldRush
 
-### Black Market
+- House Robberies
 
-### Camping
+- Hunting
 
-### Car Bomb
+- Insurance
 
-### Car Rebuild
+- Investigation
 
-### Car Rebuild
+- Jewely
 
-### Car Thief
+- Lockers
 
-### Craft Potion
+- Mining
 
-### Deliveries
+- Mini Robberies
 
-### Farming
+- MoneyWash
 
-### Fishing
+- MysteryBox
 
-### FoodVan
+- Oil Factory
 
-### Garbage
+- Rob NPC
 
-### GoldRush
+- Runs
 
-### House Robberies
+- ScrapYard
 
-### Hunting
+- Steal Fuel
 
-### Insurance
+- Store Robbery
 
-### Investigation
+- Toolbox
 
-### Jewely
+- Trucker
 
-### Lockers
+- Tuner Job
 
-### Mining
+- Brewery/DigitalDen/Masks/Bikes
 
-### Mini Robberies
+<br>
 
-### MoneyWash
-
-### MysteryBox
-
-### Oil Factory
-
-### Rob NPC
-
-### Runs
-
-### ScrapYard
-
-### Steal Fuel
-
-### Store Robbery
-
-### Toolbox
-
-### Trucker
-
-### Tuner Job
-
-### Brewery/DigitalDen/Masks/Bikes
-
----
 ## Casino
----
-### Blackjack
 
-### Horse Racing
+- Blackjack
 
-### Lucky Wheel
+- Horse Racing
 
-### Slot Machines
+- Lucky Wheel
 
-### Lottery
+- Slot Machines
 
-### Car Boosting
+- Lottery
 
----
+- Car Boosting
+
+<br>
+
 ## Activities
----
-### Plasma Kart
 
-### Plasma Tag
+- Plasma Kart
 
-### Plasma Tron
+- Plasma Tag
 
-### Basketball
+- Plasma Tron
 
-### Darts
+- Basketball
 
-### Billiards
+- Darts
 
-### Tennis
+- Billiards
 
-### Roller Coaster
+- Tennis
 
-### Street Races / Phone Races
+- Roller Coaster
 
-### Arcade
+- Street Races / Phone Races
 
-### Arm Wrestling
+- Arcade
 
-### Dice/RPS/Skating/Skateboarding
+- Arm Wrestling
 
-### 2 Different Shooting Ranges
+- Dice/RPS/Skating/Skateboarding
 
----
+- 2 Different Shooting Ranges
+
+<br>
+
 ## Items
----
-### Newspaper
 
-### IDs/Licenses
+- Newspaper
 
-### TV Remotes
+- IDs/Licenses
 
-### Bandanas
+- TV Remotes
 
-### Chairs
+- Bandanas
 
-### License Plates
+- Chairs
 
-### Backpacks/Briefcases/Containers
+- License Plates
 
-### Carlifts
+- Backpacks/Briefcases/Containers
 
----
+- Carlifts
+
+<br>
+
 ## Systems
----
-### Radios/Phones
 
-### Daily/Battlepass Rewards
+- Radios/Phones
 
-### Television / Movies
+- Daily/Battlepass Rewards
 
-### Billing (all which ways)
+- Television / Movies
 
-### Player Market (auction house)
+- Billing (all which ways)
 
-### Shops / Vending Machines / PoS
+- Player Market (auction house)
 
-### Bank & Loans
+- Shops / Vending Machines / PoS
+
+- Bank & Loans
+
+- Door Locks
+
+- CCTV
+
+<br>
+
+## Government
+
+- Court System
+
+- Mayor System
+
+- Document System
+
+- Drivers School
+
+- Tattoos
+
+- Help Systems
