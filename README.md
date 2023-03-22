@@ -56,3 +56,198 @@ Selling:
   - 1281.97, -1733.7, 52.53
 ```
 
+
+
+# Jobs
+---
+## Resturants
+---
+### Bahama Mamas
+
+### Bean Machine
+
+### Cool Beans
+
+### Ponde Coffee
+
+### Tequila
+
+### Vanilla
+
+### Car Dealer
+
+###  Real Estate
+
+### Mechanic (Tuners)
+
+### Taxi
+
+### Towing
+
+---
+## PD/EMS/FIRE
+---
+### Radios
+
+### MDT's (pd/ems)
+
+### K9
+
+### Ambulance/Stretcher
+
+### Firehose and Tools
+
+### Radar / Dispatch
+
+### Alerts
+
+---
+## Civ Jobs
+---
+### Beach Activities
+
+### Black Market
+
+### Camping
+
+### Car Bomb
+
+### Car Rebuild
+
+### Car Rebuild
+
+### Car Thief
+
+### Craft Potion
+
+### Deliveries
+
+### Farming
+
+### Fishing
+
+### FoodVan
+
+### Garbage
+
+### GoldRush
+
+### House Robberies
+
+### Hunting
+
+### Insurance
+
+### Investigation
+
+### Jewely
+
+### Lockers
+
+### Mining
+
+### Mini Robberies
+
+### MoneyWash
+
+### MysteryBox
+
+### Oil Factory
+
+### Rob NPC
+
+### Runs
+
+### ScrapYard
+
+### Steal Fuel
+
+### Store Robbery
+
+### Toolbox
+
+### Trucker
+
+### Tuner Job
+
+### Brewery/DigitalDen/Masks/Bikes
+
+---
+## Casino
+---
+### Blackjack
+
+### Horse Racing
+
+### Lucky Wheel
+
+### Slot Machines
+
+### Lottery
+
+### Car Boosting
+
+---
+## Activities
+---
+### Plasma Kart
+
+### Plasma Tag
+
+### Plasma Tron
+
+### Basketball
+
+### Darts
+
+### Billiards
+
+### Tennis
+
+### Roller Coaster
+
+### Street Races / Phone Races
+
+### Arcade
+
+### Arm Wrestling
+
+### Dice/RPS/Skating/Skateboarding
+
+### 2 Different Shooting Ranges
+
+---
+## Items
+---
+### Newspaper
+
+### IDs/Licenses
+
+### TV Remotes
+
+### Bandanas
+
+### Chairs
+
+### License Plates
+
+### Backpacks/Briefcases/Containers
+
+### Carlifts
+
+---
+## Systems
+---
+### Radios/Phones
+
+### Daily/Battlepass Rewards
+
+### Television / Movies
+
+### Billing (all which ways)
+
+### Player Market (auction house)
+
+### Shops / Vending Machines / PoS
+
+### Bank & Loans
