@@ -70,26 +70,26 @@ Selling:
 
 ## Resturants
 
-| Job          | JobName     | BossRank | BossMenu | Stash | EmployeeActions |
-| ------------ | ----------- | -------- | -------- | ----- | --------------- |
-| Bahama Mamas | bahamas     |          |          |       |                 |
-| Bean Machine | beanmachine |          |          |       |                 |
-| Cool Beans   | coolbeans   |          |          |       |                 |
-| Ponde Coffee | pondecoffe  |          |          |       |                 |
-| Tequila      | tequilala   |          |          |       |                 |
+| Job          | JobName     | BossRank | BossMenu | Stash   | EmployeeActions |
+| ------------ | ----------- | -------- | -------- | ------- | --------------- |
+| Bahama Mamas | bahamas     |          | &check;  | &check; | &check;         |
+| Bean Machine | beanmachine |          |          |         |                 |
+| Cool Beans   | coolbeans   |          | &check;  | &check; | &check;         |
+| Ponde Coffee | pondecoffe  |          | &check;  | &check; | &check;         |
+| Tequila      | tequilala   |          |          |         |                 |
 
 <br>
 
 ## Core Jobs
 
-| Job               | JobName    | BossRank | BossMenu | Stash | EmployeeActions |
-| ----------------- | ---------- | -------- | -------- | ----- | --------------- |
-| Car Dealer        | cardealer  |          |          |       |                 |
-| Real Estate       | realestate |          |          |       |                 |
-| Mechanic (Tuners) | mechanic   |          |          |       |                 |
-| LSPD              | police     |          |          |       |                 |
-| EMS               | ambulance  |          |          |       |                 |
-| LSFD              | fire       |          |          |       |                 |
+| Job               | JobName    | BossRank | BossMenu | Stash   | EmployeeActions |
+| ----------------- | ---------- | -------- | -------- | ------- | --------------- |
+| Car Dealer        | cardealer  | 4        | &check;  | &check; | &check;         |
+| Real Estate       | realestate | 4        |          |         |                 |
+| Mechanic (Tuners) | mechanic   | 4        |          |         |                 |
+| LSPD              | police     | 4        |          |         |                 |
+| EMS               | ambulance  | 4        |          |         |                 |
+| LSFD              | fire       | 4        |          |         |                 |
 
 <br>
 
@@ -119,7 +119,7 @@ Selling:
 | Mining                              |             |         |
 | Mini Robberies                      |             |         |
 | MoneyWash                           |             |         |
-| MysteryBox                          |             |         |
+| MysteryBox                          |             | &check; |
 | Oil Factory                         |             |         |
 | Rob NPC                             |             |         |
 | Runs                                |             |         |
@@ -148,16 +148,16 @@ Selling:
 
 | Activity                       | Location | ExpectedFunctionality |
 | ------------------------------ | -------- | --------------------- |
-| Plasma Kart                    |          |                       |
-| Plasma Tag                     |          |                       |
-| Plasma Tron                    |          |                       |
-| Basketball                     |          |                       |
-| Darts                          |          |                       |
-| Billiards                      |          |                       |
+| Plasma Kart                    |          | &check;               |
+| Plasma Tag                     |          | &check;               |
+| Plasma Tron                    |          | &check;               |
+| Basketball                     |          | &check;               |
+| Darts                          |          | &check;               |
+| Billiards                      |          | &check;               |
 | Tennis                         |          |                       |
-| Roller Coaster                 |          |                       |
+| Roller Coaster                 |          | &check;               |
 | Street Races / Phone Races     |          |                       |
-| Arcade                         |          |                       |
+| Arcade                         |          | &check;               |
 | Arm Wrestling                  |          |                       |
 | Dice/RPS/Skating/Skateboarding |          |                       |
 | Shooting Ranges                |          |                       |
