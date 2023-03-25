@@ -1,10 +1,13 @@
+<!-- @format -->
+
 # resource-testing
-  temp space for testing
----
+
+## temp space for testing
 
 ## Drugs
 
-- Weed
+-   Weed
+
 ```lua
 Items Needed:
   - Processing: tesoura
@@ -16,8 +19,9 @@ Locations:
 Selling:
   - 99.4, -1936.57, 20.8
 ```
-  
-- Coke
+
+-   Coke
+
 ```lua
 Items Needed:
   - Processing: tesoura
@@ -30,7 +34,8 @@ Selling:
   - 328.21, -2035.65, 20.92
 ```
 
-- Meth
+-   Meth
+
 ```lua
 Items Needed:
   - Processing: tesoura
@@ -43,7 +48,8 @@ Selling:
   - 1373.52, -1534.22, 56.18
 ```
 
-- Opium
+-   Opium
+
 ```lua
 Items Needed:
   - Processing: tesoura
@@ -56,213 +62,146 @@ Selling:
   - 1281.97, -1733.7, 52.53
 ```
 
-
-
-
 <br><br>
 
 # Jobs
 
+<!-- https://www.tablesgenerator.com/markdown_tables# -->
+
 ## Resturants
 
-- Bahama Mamas
-
-- Bean Machine
-
-- Cool Beans
-
-- Ponde Coffee
-
-- Tequila
-
-- Vanilla
-
-- Car Dealer
-
--  Real Estate
-
-- Mechanic (Tuners)
-
-- Taxi
-
-- Towing
+| Job          | JobName     | BossRank | BossMenu | Stash | EmployeeActions |
+| ------------ | ----------- | -------- | -------- | ----- | --------------- |
+| Bahama Mamas | bahamas     |          |          |       |                 |
+| Bean Machine | beanmachine |          |          |       |                 |
+| Cool Beans   | coolbeans   |          |          |       |                 |
+| Ponde Coffee | pondecoffe  |          |          |       |                 |
+| Tequila      | tequilala   |          |          |       |                 |
 
 <br>
 
-## PD/EMS/FIRE
+## Core Jobs
 
-- Radios
-
-- MDT's (pd/ems)
-
-- K9
-
-- Ambulance/Stretcher
-
-- Firehose and Tools
-
-- Radar / Dispatch
-
-- Alerts
+| Job               | JobName    | BossRank | BossMenu | Stash | EmployeeActions |
+| ----------------- | ---------- | -------- | -------- | ----- | --------------- |
+| Car Dealer        | cardealer  |          |          |       |                 |
+| Real Estate       | realestate |          |          |       |                 |
+| Mechanic (Tuners) | mechanic   |          |          |       |                 |
+| LSPD              | police     |          |          |       |                 |
+| EMS               | ambulance  |          |          |       |                 |
+| LSFD              | fire       |          |          |       |                 |
 
 <br>
 
-## Civ Jobs
-- Beach Activities
-- Black Market
-- Camping
-- Car Bomb
-- Car Rebuild
-- Car Rebuild
-- Car Thief
-- Craft Potion
-- Deliveries
-- Farming
-- Fishing
-- FoodVan
-- Garbage
-- GoldRush
+## Activities (item or money making)
 
-- House Robberies
-
-- Hunting
-
-- Insurance
-
-- Investigation
-
-- Jewely
-
-- Lockers
-
-- Mining
-
-- Mini Robberies
-
-- MoneyWash
-
-- MysteryBox
-
-- Oil Factory
-
-- Rob NPC
-
-- Runs
-
-- ScrapYard
-
-- Steal Fuel
-
-- Store Robbery
-
-- Toolbox
-
-- Trucker
-
-- Tuner Job
-
-- Brewery/DigitalDen/Masks/Bikes
+| Name                                | ItemsNeeded | Actions |
+| ----------------------------------- | ----------- | ------- |
+| Beach Activities                    |             |         |
+| Black Market                        |             |         |
+| Camping                             |             |         |
+| Car Bomb                            |             |         |
+| Car Rebuild                         |             |         |
+| Car Thief                           |             |         |
+| Craft Potion                        |             |         |
+| Deliveries                          |             |         |
+| Farming                             |             |         |
+| Fishing                             |             |         |
+| FoodVan                             |             |         |
+| Garbage                             |             |         |
+| GoldRush                            |             |         |
+| House Robberies                     |             |         |
+| Hunting                             |             |         |
+| Insurance                           |             |         |
+| Investigation                       |             |         |
+| Jewely                              |             |         |
+| Lockers                             |             |         |
+| Mining                              |             |         |
+| Mini Robberies                      |             |         |
+| MoneyWash                           |             |         |
+| MysteryBox                          |             |         |
+| Oil Factory                         |             |         |
+| Rob NPC                             |             |         |
+| Runs                                |             |         |
+| ScrapYard                           |             |         |
+| Steal Fuel                          |             |         |
+| Store Robbery                       |             |         |
+| Toolbox                             |             |         |
+| Brewery/DigitalDen/Masks/Bikes Shop |             |         |
+| Car Boosting                        |             |         |
 
 <br>
 
 ## Casino
 
-- Blackjack
-
-- Horse Racing
-
-- Lucky Wheel
-
-- Slot Machines
-
-- Lottery
-
-- Car Boosting
+| Game          | ItemsNeeded | ExpectedFunctionality |
+| ------------- | ----------- | --------------------- |
+| Blackjack     |             |                       |
+| Horse Racing  |             |                       |
+| Lucky Wheel   |             |                       |
+| Slot Machines |             |                       |
+| Roulette      |             |                       |
 
 <br>
 
 ## Activities
 
-- Plasma Kart
-
-- Plasma Tag
-
-- Plasma Tron
-
-- Basketball
-
-- Darts
-
-- Billiards
-
-- Tennis
-
-- Roller Coaster
-
-- Street Races / Phone Races
-
-- Arcade
-
-- Arm Wrestling
-
-- Dice/RPS/Skating/Skateboarding
-
-- 2 Different Shooting Ranges
+| Activity                       | Location | ExpectedFunctionality |
+| ------------------------------ | -------- | --------------------- |
+| Plasma Kart                    |          |                       |
+| Plasma Tag                     |          |                       |
+| Plasma Tron                    |          |                       |
+| Basketball                     |          |                       |
+| Darts                          |          |                       |
+| Billiards                      |          |                       |
+| Tennis                         |          |                       |
+| Roller Coaster                 |          |                       |
+| Street Races / Phone Races     |          |                       |
+| Arcade                         |          |                       |
+| Arm Wrestling                  |          |                       |
+| Dice/RPS/Skating/Skateboarding |          |                       |
+| Shooting Ranges                |          |                       |
 
 <br>
 
 ## Items
 
-- Newspaper
-
-- IDs/Licenses
-
-- TV Remotes
-
-- Bandanas
-
-- Chairs
-
-- License Plates
-
-- Backpacks/Briefcases/Containers
-
-- Carlifts
+| Item                            | SpawnName | ExpectedFunctionality |
+| ------------------------------- | --------- | --------------------- |
+| Newspaper                       |           |                       |
+| IDs/Licenses                    |           |                       |
+| TV Remotes                      |           |                       |
+| Bandanas                        |           |                       |
+| Chairs                          |           |                       |
+| License Plates                  |           |                       |
+| Backpacks/Briefcases/Containers |           |                       |
+| Carlifts                        |           |                       |
+| Lottery                         |           |                       |
 
 <br>
 
 ## Systems
 
-- Radios/Phones
-
-- Daily/Battlepass Rewards
-
-- Television / Movies
-
-- Billing (all which ways)
-
-- Player Market (auction house)
-
-- Shops / Vending Machines / PoS
-
-- Bank & Loans
-
-- Door Locks
-
-- CCTV
+| Action                         | HowToUse | ExpectedFunctionality |
+| ------------------------------ | -------- | --------------------- |
+| Radios/Phones                  |          |                       |
+| Daily/Battlepass Rewards       |          |                       |
+| Television / Movies            |          |                       |
+| Billing (all which ways)       |          |                       |
+| Player Market (auction house)  |          |                       |
+| Shops / Vending Machines / PoS |          |                       |
+| Bank & Loans                   |          |                       |
+| Door Locks                     |          |                       |
+| CCTV                           |          |                       |
 
 <br>
 
 ## Government
 
-- Court System
-
-- Mayor System
-
-- Document System
-
-- Drivers School
-
-- Tattoos
-
-- Help Systems
+| Action          | HowToUse | ExpectedFunctionality |
+| --------------- | -------- | --------------------- |
+| Court System    |          |                       |
+| Mayor System    |          |                       |
+| Document System |          |                       |
+| Drivers School  |          |                       |
+| Tattoos         |          |                       |
